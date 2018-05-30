@@ -1,0 +1,30 @@
+{
+  "name": "bulk-yaml-to-json",
+  "version": "1.0.0",
+  "description": "Convert .yaml files to .json in bulk.",
+  "main": "index.js",
+  "dependencies": {
+    "js-yaml": "^3.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drozdowo/bulk-yaml-to-json.git"
+  },
+  "keywords": [
+    "yaml",
+    "to",
+    "json",
+    "2",
+    "convert"
+  ],
+  "author": "Oliver Drozdowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drozdowo/bulk-yaml-to-json/issues"
+  },
+  "homepage": "https://github.com/drozdowo/bulk-yaml-to-json#readme"
+}
