@@ -8,7 +8,7 @@ Clone the repository, and run:
 
 Then, create two folders, one for your yaml files
 
-`mkdir yaml'
+`mkdir yaml`
 
 and one for the resulting .json files:
 
