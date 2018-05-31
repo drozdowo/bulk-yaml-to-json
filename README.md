@@ -17,3 +17,6 @@ and one for the resulting .json files:
 Then run:
 
 `node index.js`
+
+
+### Looking to import that JSON into a MongoDB Database? Check out https://github.com/drozdowo/bulk-json-to-mongodb !
